@@ -1,4 +1,4 @@
-![banner](img/github-header-banner.png)
+![banner](img/github-header-banner2.png)
 <!--
 **chalikexcaliber/chalikexcaliber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there! You can call me Chalik_👋
 - 🔭 I’m currently working on @budiluhur
-- 🌱 I’m currently learning Computing, Programming, Networking, TroubleShooting
+- 🌱 I’m currently learning Computing, Programming, Networking, Troubleshooting
 😊👍👌
 
 ##### Skills
