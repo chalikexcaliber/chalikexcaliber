@@ -24,3 +24,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
+
+##### Contact with me
+[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin)](https://skillicons.dev)
+
+
+##### My GitHub Stats
+![chalik's GitHub stats](https://github-readme-stats.vercel.app/api?username=chalikexcaliber&show_icons=true&theme=radical)
