@@ -1,5 +1,4 @@
-## Hi there! I'm Akhsari Achmad 👋
-
+![banner](img/github-header-banner.png)
 <!--
 **chalikexcaliber/chalikexcaliber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi there! You can call me Chalik_👋
 - 🔭 I’m currently working on @budiluhur
 - 🌱 I’m currently learning Cloud Computing
